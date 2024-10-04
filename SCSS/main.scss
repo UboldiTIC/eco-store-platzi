@@ -83,11 +83,17 @@ section {
             padding-bottom: 60px;
         }
         .product-card {
-            width: 15vw;
+            width: 12vw;
             height: auto;
             background-color: $secondary-color;
+            color: $primary-text-color;
+            padding: 20px;
+            border-radius: 8px;
             img {
-                width: 100px;
+                width: 200px;
+                height: 250px;
+                background-image: cover;
+                border-radius: 6px;
                 
             }
         }

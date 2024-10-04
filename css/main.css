@@ -77,12 +77,18 @@ section .healthcare h2 {
   padding-bottom: 60px;
 }
 section .healthcare .product-card {
-  width: 15vw;
+  width: 12vw;
   height: auto;
   background-color: #FFDAC6;
+  color: #7C6A0A;
+  padding: 20px;
+  border-radius: 8px;
 }
 section .healthcare .product-card img {
-  width: 100px;
+  width: 200px;
+  height: 250px;
+  background-image: cover;
+  border-radius: 6px;
 }
 
 footer {
