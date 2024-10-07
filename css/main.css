@@ -105,11 +105,11 @@ section .healthcare .card-section, section .furniture .card-section {
   row-gap: 80px;
 }
 section .healthcare .product-card, section .furniture .product-card {
-  width: 14vw;
-  height: 45vh;
+  width: 16vw;
+  height: 55vh;
   background-color: #FFDAC6;
   color: #7C6A0A;
-  padding: 20px;
+  padding: 50px;
   border-radius: 8px;
 }
 section .healthcare .product-card .icon, section .furniture .product-card .icon {
