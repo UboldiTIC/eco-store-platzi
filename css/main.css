@@ -109,7 +109,7 @@ section .healthcare .product-card, section .furniture .product-card {
   height: 55vh;
   background-color: #FFDAC6;
   color: #7C6A0A;
-  padding: 50px;
+  padding: 20px;
   border-radius: 8px;
 }
 section .healthcare .product-card .icon, section .furniture .product-card .icon {
